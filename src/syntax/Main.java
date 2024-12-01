@@ -1,9 +1,10 @@
+package syntax;
 /* *
    *@author Viktor Nautilus
    * @version 1.01 2024
  */
 
-//This is Main class
+//This is Syntax.Main class
 public class Main {
     // Этот метод является точкой входа в программу
     public static void main(String[] args) {
