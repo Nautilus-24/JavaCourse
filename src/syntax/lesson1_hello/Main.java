@@ -1,4 +1,4 @@
-package syntax;
+package syntax.lesson1_hello;
 /* *
    *@author Viktor Nautilus
    * @version 1.01 2024
